@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h6 align="left">✨ Creating bugs since 2023<br><br>📚 I'm currently learning Systems Analysis and improving my skills in C# and SQL<br><br>🎯 Goals: <br> - Finish my Systems Analysis degree  <br> - Become a backend developer with  C#  <br> - Learn more about relational and non-relational databases  <br> - Work on real projects that make an impact  <br><br>🎲 Fun fact:<br> - I'm colorblind, so the colors in my projects can be... interesting 😅  <br> - I got obsessed with SQL after writing my first SELECT query</h6>
 
 ###
 
